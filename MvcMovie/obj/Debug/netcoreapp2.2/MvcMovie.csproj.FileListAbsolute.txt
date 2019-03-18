@@ -28,3 +28,10 @@ E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Mv
 E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.dll
 E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.pdb
 E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\MvcMovie.csproj.CopyComplete
+E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
+E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
+E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Create.g.cshtml.cs
+E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Delete.g.cshtml.cs
+E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
+E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
+E:\users\Administrator\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
