@@ -9,11 +9,16 @@ namespace MvcMovie.Models
     public class Movie
     {
         public int Id { get; set; }
+        [Display(Name ="标题")]
         public string Title { get; set; }
 
+        
         [DataType(DataType.Date)]
+        [Display(Name = "发布日期")]
         public DateTime ReleaseDate { get; set; }
+        [Display(Name ="类别")]
         public string Genre { get; set; }
+        [Display(Name ="价格")]
         public decimal Price { get; set; }
     }
 }
