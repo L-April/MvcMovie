@@ -17,7 +17,7 @@ namespace MvcMovie.Models
         [DataType(DataType.Date)]
         [Display(Name = "发布日期")]
         public DateTime ReleaseDate { get; set; }
-        [Display(Name ="类别")]
+        [Display(Name ="流派")]
         public string Genre { get; set; }
         [Display(Name ="价格")]
         [Column(TypeName ="decimal(18,2)")]
